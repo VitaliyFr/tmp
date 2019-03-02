@@ -1,1 +1,4 @@
-# tmp
+# tmp 
+
+- [x] create repo
+- [] write code
